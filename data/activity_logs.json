@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "20-08-2026 01:04:20 PM",
+    "username": "admin",
+    "role": "admin",
+    "action": "User Logged In",
+    "details": ""
+  },
+  {
+    "timestamp": "20-08-2026 01:04:10 PM",
+    "username": "admin",
+    "role": "admin",
+    "action": "System Initialized with default admin account",
+    "details": ""
+  }
+]
