@@ -84,7 +84,6 @@ if not st.session_state["authenticated_user"]:
                     st.rerun()
                 else:
                     st.error("Invalid username or password.")
-        st.info("Default Admin account: `admin` | Password: `admin123`")
     st.stop()
 
 # =========================================================
